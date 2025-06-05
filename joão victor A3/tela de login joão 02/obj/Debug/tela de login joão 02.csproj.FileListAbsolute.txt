@@ -1,0 +1,10 @@
+D:\MariaClara\Aula00\tela de login joão 02\bin\Debug\tela de login joão 02.exe.config
+D:\MariaClara\Aula00\tela de login joão 02\bin\Debug\tela de login joão 02.exe
+D:\MariaClara\Aula00\tela de login joão 02\bin\Debug\tela de login joão 02.pdb
+D:\MariaClara\Aula00\tela de login joão 02\obj\Debug\tela de login joão 02.csproj.AssemblyReference.cache
+D:\MariaClara\Aula00\tela de login joão 02\obj\Debug\tela_de_login_joão_02.Properties.Resources.resources
+D:\MariaClara\Aula00\tela de login joão 02\obj\Debug\tela de login joão 02.csproj.GenerateResource.cache
+D:\MariaClara\Aula00\tela de login joão 02\obj\Debug\tela de login joão 02.csproj.CoreCompileInputs.cache
+D:\MariaClara\Aula00\tela de login joão 02\obj\Debug\tela de login joão 02.exe
+D:\MariaClara\Aula00\tela de login joão 02\obj\Debug\tela de login joão 02.pdb
+D:\MariaClara\Aula00\tela de login joão 02\obj\Debug\tela_de_login_joão_02.Form1.resources
